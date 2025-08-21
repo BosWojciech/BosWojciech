@@ -8,10 +8,9 @@
 - **Smart TV applications** on Tizen with Shaka Player and adaptive streaming tech
 
 ### 🚧 Currently Working On:
-1. A **Dynamic ad URL proxy server** (project in progress)
-2. A **Telemetry Dashboard** for F1 game data (C++, ZeroMQ, PostgreSQL, React)
-3. **Tastemate**, an app for collaborative meal planning
-4. Translation model research for [FlipChat](https://flip-chat.com/en)
+1. **Cook Off** - gamified instagram like mobile application (in progress)
+2. **F1 Telemetry Dashboard** - pipeline with dashboard for data from F1 games (60% done)
+3. **Process Graph Live Wallpaper** - application in C++ with Vulcan that will display graph tree of processes running on computer (in progress)
 
 
 
@@ -35,6 +34,7 @@
 
 ### 📱 Mobile Development
 - **Dart & Flutter** – Cross-platform app development
+- **React Native** - Cross-platform app development
 
 ### 📺 Smart TV & Streaming
 - **Tizen Web Applications** – Smart TV development with Tizen API
@@ -50,8 +50,12 @@
 - **SQL** – General experience
 - **PostgreSQL** – Relational database projects
 - **MongoDB** – NoSQL document store
+- **InfluxDB** - Time series database
 
 ### ⚙️ DevOps & Hosting
 - **Docker** – Containerization
+- **Kubernetes** - Orchestration system for managing, scaling, and deploying containers
+- **CI/CD** -Continuous Integration & Continuous Deployment pipelines for automated testing and delivery
+- **Supabase** - Authentication, DB, real-time DB
 - **NGINX** – Reverse proxy and web server
 - **Firebase** – Hosting, authentication, real-time DB
