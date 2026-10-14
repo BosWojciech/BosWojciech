@@ -1,13 +1,13 @@
-Hi, I'm Wojtek, a full-stack and machine learning engineer focused on solving complex problems and delivering reliable production systems.
+Hi, I'm Wojtek. I build things end to end, from the database schema all the way to the pixels, and I'm happiest when a problem looks messy enough that nobody else wants to touch it.
 
-I work mainly with Python, building backend services with FastAPI, designing asynchronous processing pipelines, and turning complex data workflows into maintainable solutions. I also build modern frontends with React and TypeScript and ship to containerized, cloud-native environments.
+By day I write mostly Python: FastAPI services, async pipelines, and ML models that have to keep working once they hit production. I also build React/TypeScript frontends and ship everything to Kubernetes. Over the years I've moved through Smart TV apps, IoT drivers for smart homes, time-series forecasting, and lately AI agents wired into real-world logistics data.
 
-My background spans:
-- **Full-stack & AI engineering** with Python, FastAPI, TypeScript, NestJS, React and Angular, including multi-agent AI workflows and MCP integrations
-- **Data & ML** with Pandas, NumPy, scikit-learn, XGBoost and time-series forecasting
-- **Cloud & distributed systems** with Docker, Kubernetes, AKS, DAPR and PostgreSQL-backed async architectures
-- **Embedded & IoT** with Lua SmartThings EdgeDrivers for Zigbee, Z-Wave and Matter devices
-- **Smart TV applications** on Tizen with Shaka Player and adaptive streaming
+By night I write C++ and Vulkan, building physics simulations and generally trying to get closer to the hardware than any web developer should.
+
+Things I care about:
+- Systems that are boring in production and fun to build
+- Getting from "this is a weird idea" to "this works" fast
+- Carbonara, made properly: guanciale, pecorino, eggs, black pepper, no cream. Self-proclaimed expert, open to debate
 
 ### Currently Working On
 1. **Auctor** - a self-hosted platform for centrally managing engineering standards and context for AI coding agents, keeping repositories free of agent-specific configuration
@@ -38,6 +38,7 @@ My background spans:
 
 ### Systems & Low-Level
 - **C++** - Systems programming, performance-critical apps
+- **Vulkan** - Graphics and compute, physics simulations
 - **OpenGL** - Graphics programming
 - **ZeroMQ** - High-performance messaging
 
