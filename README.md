@@ -14,6 +14,17 @@ Things I care about:
 2. **F1 Telemetry Platform** - real-time telemetry ingestion and pit-wall dashboard for F1 game data, spanning a C++ edge agent, a NestJS hub and a React frontend
 3. **CoreGraph** - a high-density C++ execution engine for running large numbers of stateful AI agents efficiently
 
+### Running On My Homelab
+A Kubernetes cluster at home that I treat with more care than most production systems:
+- **Twingate** - zero-trust remote access
+- **Infisical** - secrets management
+- **Gitea** - self-hosted Git
+- **n8n** - automations and scheduled workflows
+- **Nextcloud** - files and sync
+- **Immich** - photo library
+- **Image Vault** - image storage
+- **Jellyfin** - media server
+- Plus a growing collection of beautiful self-written services, built mostly because I could
 
 
 ## Tech Stack I've Used
