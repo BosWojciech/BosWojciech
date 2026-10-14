@@ -22,7 +22,7 @@ A Kubernetes cluster at home that I treat with more care than most production sy
 - **n8n** - automations and scheduled workflows
 - **Nextcloud** - files and sync
 - **Immich** - photo library
-- **Image Vault** - image storage
+- **Image Vault** - private Docker registry for my container images
 - **Jellyfin** - media server
 - Plus a growing collection of beautiful self-written services, built mostly because I could
 
@@ -78,6 +78,7 @@ A Kubernetes cluster at home that I treat with more care than most production sy
 - **PostgreSQL** - JSONB, materialized views, PostgreSQL-backed queues and state machines
 - **MongoDB** - NoSQL document store
 - **InfluxDB** - Time series database
+- **Qdrant** - Vector database for embeddings and semantic search
 
 ### DevOps & Hosting
 - **Docker** - Containerization
