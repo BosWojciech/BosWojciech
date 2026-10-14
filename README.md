@@ -8,6 +8,7 @@ Things I care about:
 - Systems that are boring in production and fun to build
 - Getting from "this is a weird idea" to "this works" fast
 - Carbonara, made properly: guanciale, pecorino, eggs, black pepper, no cream. Self-proclaimed expert, open to debate
+- As every tifoso of Ferrari F1 says every single season: “Next year is our year”
 
 ### Currently Working On
 1. **Auctor** - a self-hosted platform for centrally managing engineering standards and context for AI coding agents, keeping repositories free of agent-specific configuration
